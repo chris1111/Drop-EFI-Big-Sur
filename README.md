@@ -5,6 +5,7 @@ Drop-EFI-Big-Sur is a wonderfull Droplet to mount EFI partitions in macOS 11
 - It works from 10.12 to macOS 11 big Sur.
 - Gatekeeper must be disable to using it.
 - It can mount EFI partitions (GPT)➤ APFS, (GPT)➤ HFS+J, (GPT)➤ NTFS
+- Not working encrypted volume
 
 ### Credit:
 - Build by [chris1111](https://github.com/chris1111/)
