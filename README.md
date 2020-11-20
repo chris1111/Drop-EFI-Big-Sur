@@ -16,7 +16,8 @@ Drop-EFI-Big-Sur is a wonderfull Droplet to mount EFI partitions in macOS 11
 
 View full Video ⬇︎
 
-[![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://youtu.be/GOYqiBoDiF4)
+- Don't forget to click on any security popup while installing the application
+[![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://youtu.be/d8JK5a6S4SY)
 
 
 ### Download ➤ [Drop EFI Big Sur](https://github.com/chris1111/Drop-EFI-Big-Sur/releases/tag/V2)
