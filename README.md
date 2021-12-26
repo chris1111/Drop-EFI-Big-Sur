@@ -2,7 +2,7 @@
   
 ## Support macOS Monterey 12
   
-Update 20 Nov 2020 Drop EFI Big Sur V2
+Update 25 Dec 2021 - V3 - Enable native DarkMode
   
 Drop EFI Big Sur
 Drop-EFI-Big-Sur is a wonderfull Droplet to mount EFI partitions in macOS 11
@@ -22,7 +22,7 @@ View full Video ⬇︎
 [![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://youtu.be/d8JK5a6S4SY)
 
 
-### Download ➤ [Drop EFI Big Sur](https://github.com/chris1111/Drop-EFI-Big-Sur/releases/tag/V2)
+### Download ➤ [Drop EFI Big Sur](https://github.com/chris1111/Drop-EFI-Big-Sur/releases/tag/V3)
 
 ![Capture d’écran, le 2020-08-31 à 08 07 08](https://user-images.githubusercontent.com/6248794/91718432-547c2a80-eb61-11ea-9940-d45a435a2185.png)
 
