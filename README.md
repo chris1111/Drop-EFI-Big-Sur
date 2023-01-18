@@ -1,6 +1,6 @@
 <p align="center">
   
-## Support macOS Monterey 12
+## Support macOS Ventura 13
   
 Update 25 Dec 2021 - V3 - Enable native DarkMode
   
